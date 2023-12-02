@@ -1,0 +1,3 @@
+token      = 'your-discord-bot-token'
+channel_id = 'your-discord-channel-id'
+oldstamp   = '2023-11-30T21:00:00.000000+00:00' # get all messages after this date
